@@ -21,7 +21,7 @@
     "clipboard-js": "^0.3.6",
     "date-format": "^3.0.0",
     "element-ui": "^2.13.2",
-    "express": "^4.17.1",
+    "express": "^4.21.0",
     "highlight.js": "^10.2.1",
     "https": "^1.0.0",
     "iview": "^3.5.4",
